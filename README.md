@@ -64,7 +64,7 @@ Node assignedNode = consistentHash.getNode(partitionKey);
 
 - **Java 17** - 최신 LTS 버전, 성능 최적화
 - **Spring Boot 3.2.0** - 최신 스프링 생태계
-- **Gradle 8.0** - 빌드 자동화 및 의존성 관리
+- **Gradle 8.14.3** - 빌드 자동화 및 의존성 관리
 
 ## 🧪 종합 테스트 전략 (8개 카테고리)
 
